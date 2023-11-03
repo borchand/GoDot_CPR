@@ -9,14 +9,20 @@ In the search bar type `TileMap` and select the `TileMap` node. Then press the `
 
 This will create a `TileMap` node in the scene. You can now select the `TileMap` node and change its properties in the inspector.
 
-In the inspector find the `layers` section. Then click the `Add Element` button to add a new layer. Make sure to add two new layers so there is a total of three layers. The first layer is the player layer, the second layer is the background layer and the third layer is the front layer. Set the `Z index` of the player layer to 0, the background layer to -1 and the front layer to 1. As showen below.
+In the inspector find the `layers` section. Then click the `Add Element` button to add a new layer. 
 
 <img src="./Img/createTileMap/addLayers.png" height="400px">
+
+Make sure to add two new layers so there is a total of three layers. The first layer is the player layer, the second layer is the background layer and the third layer is the front layer. Set the `Z index` of the player layer to 0, the background layer to -1 and the front layer to 1. As showen below.
+
 <img src="./Img/createTileMap/setLayers.png" height="400px">
 
-Now we need to add a tileset to the `TileMap`. To do this click on `<empty>` in the `TileMap` section of the inspector. This will open a dropdown where you can select a tileset. Click the `New TileSet` button to create a new tileset.
+Now we need to add a tileset to the `TileMap`. To do this click on `<empty>` in the `TileMap` section of the inspector. 
 
 <img src="./Img/createTileMap/addTileset.png" height="400px">
+
+This will open a dropdown where you can select a tileset. Click the `New TileSet` button to create a new tileset.
+
 <img src="./Img/createTileMap/newTileset.png" width="400px">
 
 New we can enter the `TileSet` editor. Here we can add new tiles to the tileset. 
