@@ -1,6 +1,7 @@
 # Create a TileMap
 
 First click the plus icon in the top left corner of the editor. This will open a window where you can select the type of node you want to create.
+
 <img src="./Img/createTileMap/createTilemap.png" height="300px"/>
 
 In the search bar type `TileMap` and select the `TileMap` node. Then press the `Create` button.
