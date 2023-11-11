@@ -109,7 +109,7 @@ Now we should have a `script` attached to the `Player`. That looks like this:
 
 <img src="./Img/createPlayer/addScriptDone.png" width="600px">
 
-Delete everthing in the `script` except the first line so it looks like this.
+Delete everthing in the `script` except the first line so we only have this:
 
 ```gdscript
 extends CharacterBody2D
